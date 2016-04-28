@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "description": "a node project for learn",
+  "main": "meadowlark.js",
+  "authors": [
+    "jackdon"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

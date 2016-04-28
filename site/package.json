@@ -1,0 +1,34 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "a node project for learn",
+  "main": "meadowlark.js",
+  "scripts": {
+    "start": "node meadowlark.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackdon/meadowlark.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "jackdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackdon/meadowlark/issues"
+  },
+  "homepage": "https://github.com/jackdon/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2",
+    "fs-json": "^0.1.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "mocha": "^2.4.5"
+  }
+}
