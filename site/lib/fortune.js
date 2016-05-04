@@ -9,4 +9,4 @@ var fortuneCookies = ["The future of scalable data processing is microservices!"
 
 module.exports.getFortune = function getFortune() {
     return fortuneCookies[Math.floor(Math.random()*fortuneCookies.length)];
-}
+};
